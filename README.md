@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=wang-ting000.readme)
 
-![info](https://github-readme-stats.vercel.app/api?username=CasterWx&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+![info](https://github-readme-stats.vercel.app/api?username=wang-ting000&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
