@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studing in HITSZ
+- 🔭 I’m currently studing in <span class = "mark" >HITSZ</span>
 - 🌱 I’m currently learning java and wireless communication stuff
 
 
