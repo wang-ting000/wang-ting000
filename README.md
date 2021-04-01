@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img align="right" img width = '400' height = '300' src="https://i.loli.net/2021/04/01/oaki6DRjVY9P42l.png"/>  
+<img align="right" img width = '400' height = '400' src="https://i.loli.net/2021/04/01/Atgyjz4YJp2UrWM.png"/>
+<img align="right" img width = '400' height = '400' src="https://i.loli.net/2021/04/01/IWBSnDJPNLYQVGt.png"/>
+
 
 Here are some ideas to get you started:
 
