@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img align="right" img width = '400' height = '300' src="https://i.loli.net/2021/04/01/oaki6DRjVY9P42l.png"/>  
 
 Here are some ideas to get you started:
 
