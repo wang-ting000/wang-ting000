@@ -4,7 +4,7 @@
 <img align="right" img width = '300' height = '300' src="https://i.loli.net/2021/04/01/IWBSnDJPNLYQVGt.png"/>
 
 
-Here are some ideas to get you started:
+This is me:
 
 - 🔭 I’m currently studing in <span class = "mark" >HITSZ</span>
 - 🌱 I’m currently learning java and wireless communication stuff
