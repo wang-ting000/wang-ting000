@@ -7,7 +7,8 @@
 This is me:
 
 - 🔭 I’m currently studing in <span class = "mark" >HITSZ</span>
-- 🌱 I’m currently learning java and wireless communication stuff
+- 🌱 I’m currently learning Python and wireless communication stuff
+- email me at 180210305@stu.hit.edu.cn
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=wang-ting000.readme)
