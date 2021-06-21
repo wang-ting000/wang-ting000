@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" img width = '300' height = '300' src="https://i.loli.net/2021/04/01/Atgyjz4YJp2UrWM.png"/>
+
 <img align="right" img width = '300' height = '300' src="https://i.loli.net/2021/04/01/IWBSnDJPNLYQVGt.png"/>
 
 
