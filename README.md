@@ -13,3 +13,6 @@ This is me:
 ![](https://visitor-badge.glitch.me/badge?page_id=wang-ting000.readme)
 
 ![info](https://github-readme-stats.vercel.app/api?username=wang-ting000&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+
+   <img height="165" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wang-ting000&layout=compact&langs_count=6&hide_border=true&hide=CSS" />
+</a>
