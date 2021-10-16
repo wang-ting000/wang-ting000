@@ -5,7 +5,7 @@
 This is me:
 
 - 🔭 I’m currently studing in <span class = "mark" >HITSZ</span>,majoring in commucation engineering
-- 🌱 I’m currently learning Python and wireless communication stuff
+- 🌱 I’m currently learning Python and RL stuff
 - ❥(^_-) My interests: wireless communication, mobile communication, coding
 - email me at 180210305@stu.hit.edu.cn
 
